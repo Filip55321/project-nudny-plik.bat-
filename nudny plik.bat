@@ -1,6 +1,6 @@
 
 @echo off
-title [infinite nothing]
+title [infinite nothing ver:o.404pll]
 
 
 
@@ -10,6 +10,7 @@ title [infinite nothing]
 cls
 echo ------------------------------------------------------------------------------------------------------------------------
 echo [infinite nothing]
+echo [ver:v0.404pll]
 echo 1. tree Game 1
 echo 2. dir Game 2
 echo 3. rick Game 3

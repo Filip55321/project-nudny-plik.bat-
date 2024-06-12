@@ -2,7 +2,221 @@
 @echo off
 title [infinite nothing ver:o.404pll]
 
+:starterload:
+@echo off
+Echo 	Please Wait!!!
 
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>nullcls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo Loading.
+ping localhost -n4>null
+cls
+echo Loading..
+ping localhost -n4>null
+cls
+echo Loading...
+ping localhost -n4>null
+cls
+echo.
+echo loaded now
+echo going to Menu
+goto :Menu:
 
 
 
@@ -10,17 +224,17 @@ title [infinite nothing ver:o.404pll]
 cls
 echo ------------------------------------------------------------------------------------------------------------------------
 echo [infinite nothing]
-echo [ver:v0.404pll]
-echo 1. tree Game 1
-echo 2. dir Game 2
-echo 3. rick Game 3
-echo 4. parot Game 4
-echo 5. forest Game 5
-echo 6. donut Game 6
-echo 7. earth game 7
+echo [ver:v0.405pll]
+echo 1. tree 1
+echo 2. dir 2
+echo 3. rick animation 3 
+echo 4. parot animation 4
+echo 5. forest animation 5
+echo 6. donut animation 6
+echo 7. earth animation 7
 echo 8. goblin game 8
-echo 9. printer game 9
-echo 10. no game 10
+echo 9. star wars animation 9
+echo 10. art/obraz 10
 echo 11. no game 11
 echo 12. no game 12
 echo 13. no game 13
@@ -34,14 +248,14 @@ echo 20. no game 20
 echo 21. no game 21
 echo 22. no game 22
 echo 23. no game 23
-echo 24. no game 24
+echo 24. zegar 24
 echo 25. zmiana koloru 25
 echo 0. Exit game
 echo ------------------------------------------------------------------------------------------------------------------------
 
 
 
-set /p answer=Select Option:
+set /p answer=wybierz sektor:
 if %answer%==1 goto :1:
 if %answer%==2 goto :2:
 if %answer%==3 goto :3:
@@ -3886,12 +4100,6 @@ if %answer%==1 goto :CharacterCreator
 if %answer%==2 goto :Menu:
 if not %answer%==1 goto :Menu
 
-:Exit
-echo exiting.
-echo exiting..
-echo exiting...
-goto :Menu:
-
 :GameOver
 cls
 echo Game Over!
@@ -4017,12 +4225,45 @@ set /a player_armor= %player_armor% + %player_lvl_armor%
 goto :Game: 
 
 :9: 
-echo nothing here
-goto :10: 
+
 
 :10:
-echo nothing here
-goto :11:
+echo art/obraz
+@echo off 	
+echo 	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyhy
+echo 	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyssoo+syyh
+echo 	hhhhhhhhhhhhhhhhhhhyyyyhhhhhhhhhhhhhyyssyyyyyyh
+echo 	hhhhhhhhhhhhyysso++/+++osssyyyyhhhyyyyyyyhyyyyy
+echo 	hhhhhhhhhhyo/:-------::///++oosyyyyyyyyyyhyyyyy
+echo 	hhhhhhhys+:-.....--:::::////++ossssyyyyyyyhyyyy
+echo 	hhhhys+:-...---:::/:+///++++++oossssyyyyyyyyyyy
+echo 	hhhy+-....-:::///://////o+++ooooooosssyyyyyyyyy
+echo 	hys/.`.-----://///::+///+/+ooooooossssyyyyyyyyy
+echo 	ys:.`.-::--://-::+::+/+//+oo++oo+oosssyyyyyyyyy
+echo 	y/....:://-://:////+o++++o++++ooooosssyyyyysyyy
+echo 	o:..-::://:::::/++oohyyosoooo+ooooosossyyyssyyy
+echo 	+-..-/::://////++ydmmmmmhysoo+ooooosoosyyysssyy
+echo 	/---:/://:///+sdmmmmmNNNNNmyso+++++ooossyssssss
+echo 	/:::////://+//hNNNhmNNNNdNNhs++oo++ssoossooosss
+echo 	/::://+/////+ohNNmmdNNNMmmdysoooo++oo++o+oooooo
+echo 	+/::/+oo+///:/+hmmNdmmNNmdmyo++++++oo+oooso++++
+echo 	++///+++////::+sohhdNNddhysooo+++//+++ooso+////
+echo 	//++/+oo+/////::/o+hdNy/sso++++/++++/++os+/::::
+echo 	::/++++++//::---://+sms::+++//+///++++oso/:----
+echo 	:::++++++//:::--/.:/yN+:--://:///++/+oo/:------
+echo 	----:++//////:-:.--:sm::.--:://:/++oos+:--.....
+echo 	------://////::-.--:om/:--::/++oooos++:........
+echo 	.......--::::::.----om/::://+oooooo/...........
+echo 	..........------:-::+h+//++osysoo+:....``````..
+echo 	`````````....---:://+soossosso+-..`````````````
+echo 	``````````````....-/sNy//:---..````````````````
+echo 	```````````````````:hM+````````````````````````
+echo 	```````````````````:hM/````````````````````````
+pause
+
+:byleco:
+echo wracam do menu/back to menu
+goto :Menu:
 
 :11:
 echo nothing here
@@ -4075,23 +4316,65 @@ goto :23:
 
 :23:
 echo nothing here
-goto :24:
+goto :11:
+
+
+
 
 :24:
-echo nothing here
-goto :9:
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+
+goto :timernbv:
 
 
+:timernbv:
+@echo off
+@mode con cols=25 lines=7
+title zegar 
+:clock 
+cls 
+echo.
+echo ........................
+echo creator
+echo Filip55321
+echo hej/hello/hola 
+ECHO timer/godzina
+echo minut/minuta
+echo secund/sekuna
+echo czas - %time%  
+echo data - %date%
+echo creator 
+echo Filip55321
+echo ........................
 
-
-
-
-
-
-
-
-
-
+goto :timernbv:
 
 :25:
 :Menu2:
@@ -4107,7 +4390,6 @@ echo 7. wpisz 7 zeby zmienc kolor na bialy
 echo 8. wpisz 8 zeby zmienc kolor na szary
 echo 9. wpisz 9 zeby zmienc kolor na jasny niebieski
 echo 0. wpisz 0 aby pulsc na start
-
 
 set /p answer=Select Option:
 if %answer%==1 goto :kolor1:
